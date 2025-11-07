@@ -94,6 +94,8 @@ build:
   tags:
     - netology
 ```
-2. ![Change CI](img/change_ci1.png)
+2. #### Change CI
+![Change CI](img/change_ci1.png)
 
-3. ![Change go](img/change_go1.png)
+3. #### Change go
+![Change go](img/change_go1.png)
